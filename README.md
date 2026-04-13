@@ -2,7 +2,7 @@
 
 This repository contains the code, notebooks and computational environment used in the Master's thesis:
 
-**"XXX"**
+**"Active Learning Strategies for Molecular Age Prediction: A Comparative Study of Random Forest and Gradient Boosting"**
 
 ---
 
