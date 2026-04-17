@@ -18,7 +18,7 @@ Specifically, the work focuses on:
   - Gradient Boosting (GB / XGBoost)
 - Evaluating **Active Learning strategies**:
   - Query-by-Committee (QBC)
-  - Thresholding / IDEAL (exploration-based)
+  - Thresholding
 - Implementing a **Stream-Based Active Learning (SBS)** framework
 - Assessing **label efficiency vs. predictive performance (RMSE)**
 
@@ -73,11 +73,11 @@ The main libraries and frameworks used in this project include:
 
 ---
 
-## 📊 Notebook Structure
+## Notebook Structure
 
 The workflow is organized into two main components:
 
-### 🔹 Part 1: Model Development and Validation
+### Part 1: Model Development and Validation
 
 These notebooks focus on building and validating regression models on spectral data:
 
@@ -93,7 +93,7 @@ These notebooks focus on building and validating regression models on spectral d
 
 ---
 
-### 🔹 Part 2: Stream-Based Active Learning
+### Part 2: Stream-Based Active Learning
 
 This notebook implements and evaluates active learning strategies:
 
@@ -140,7 +140,7 @@ The models and query strategies are evaluated based on:
 
 ---
 
-## 📚 References
+## References
 
 [1] Pedregosa, F. et al. (2011).  
 *Scikit-learn: Machine Learning in Python.*  
