@@ -104,16 +104,18 @@ Performance is evaluated using:
 
 ## Repository Structure
 
-├── notebooks/
-│   ├── 01_data_preparation.ipynb
-│   ├── 02_baseline_models.ipynb
-│   ├── 03_active_stream_pipeline.ipynb
-│   ├── 04_qbc.ipynb
-│   ├── 05_analysis.ipynb
-│
-├── data/
-├── environment_list.txt
-└── README.md
+### Notebooks:
+01_data_preparation.ipynb
+02_baseline_models.ipynb
+03_active_stream_pipeline.ipynb
+04_qbc.ipynb
+05_analysis.ipynb
+### Data:
+PS20191107_2deriv_gegl
+PS20191107_gegl
+PS20191107_trees
+### environment_list.txt
+### README.md
 
 ---
 
@@ -140,14 +142,9 @@ conda create --name <env_name> --file environment_list.txt
 
 ## References
 
-[1] Pedregosa, F. et al. (2011)  
-Scikit-learn: Machine Learning in Python  
+[1] 
 
-[2] Danka, T., & Horvath, P. (2018)  
-modAL: A modular active learning framework  
 
-[3] Bemporad, A. (2022)  
-Active Learning for Regression by Inverse Distance Weighting  
 
 ---
 
