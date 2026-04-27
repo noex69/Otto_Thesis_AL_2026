@@ -105,15 +105,15 @@ Performance is evaluated using:
 ## Repository Structure
 
 ### Notebooks:
-01_data_preparation.ipynb
-02_baseline_models.ipynb
-03_active_stream_pipeline.ipynb
-04_qbc.ipynb
-05_analysis.ipynb
+- 01_data_preparation.ipynb
+- 02_baseline_models.ipynb
+- 03_active_stream_pipeline.ipynb
+- 04_qbc.ipynb
+- 05_analysis.ipynb
 ### Data:
-PS20191107_2deriv_gegl
-PS20191107_gegl
-PS20191107_trees
+- PS20191107_2deriv_gegl
+- PS20191107_gegl
+- PS20191107_trees
 ### environment_list.txt
 ### README.md
 
