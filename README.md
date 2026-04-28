@@ -156,6 +156,6 @@ This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)**
 
 ## Author
 
-**[Your Name]**
+**Wilhelm Otto** [203686@fhwn.ac.at](mailto:203686@fhwn.ac.at)
 
 
